@@ -1,0 +1,1 @@
+Here is the result done in synchronous manner Hello this is first txt file, hello this is second txt i hope 
